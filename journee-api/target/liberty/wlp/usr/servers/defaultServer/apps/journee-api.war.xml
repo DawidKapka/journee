@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="/Users/dawidkapka/git/journee/journee-api/target/classes" targetInArchive="/WEB-INF/classes"/>
+    <file sourceOnDisk="/Users/dawidkapka/.m2/repository/com/dk/journee/journee-auth/1.0-SNAPSHOT/journee-auth-1.0-SNAPSHOT.jar" targetInArchive="/WEB-INF/lib/journee-auth-1.0-SNAPSHOT.jar"/>
+    <file sourceOnDisk="/Users/dawidkapka/git/journee/journee-api/target/tmp/META-INF/MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+</archive>

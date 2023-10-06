@@ -1,0 +1,13 @@
+Launching defaultServer (Open Liberty 23.0.0.9/wlp-1.0.81.cl230920230904-1158) on OpenJDK 64-Bit Server VM, version 18.0.2+9-61 (en_GB)
+[AUDIT   ] CWWKE0001I: The server defaultServer has been launched.
+[AUDIT   ] CWWKG0093A: Processing configuration drop-ins resource: /Users/dawidkapka/git/journee/journee-api/target/liberty/wlp/usr/servers/defaultServer/configDropins/overrides/liberty-plugin-variable-config.xml
+[AUDIT   ] CWWKZ0058I: Monitoring dropins for applications.
+[AUDIT   ] CWWKT0016I: Web application available (default_host): http://10.20.11.101:9080/
+[AUDIT   ] CWWKZ0001I: Application journee-api started in 0.758 seconds.
+[AUDIT   ] CWWKF0012I: The server installed the following features: [cdi-4.0, jndi-1.0, jsonb-3.0, jsonp-2.1, restfulWS-3.1, restfulWSClient-3.1].
+[AUDIT   ] CWWKF0011I: The defaultServer server is ready to run a smarter planet. The defaultServer server started in 1.579 seconds.
+[AUDIT   ] CWWKE0055I: Server shutdown requested on Friday, 6 October 2023 at 15:20. The server defaultServer is shutting down.
+[AUDIT   ] CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[AUDIT   ] CWWKT0017I: Web application removed (default_host): http://10.20.11.101:9080/
+[AUDIT   ] CWWKZ0009I: The application journee-api has stopped successfully.
+[AUDIT   ] CWWKE0036I: The server defaultServer stopped after 26.968 seconds.
